@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "29856458506",
+    "firebase_url": "https://push-me-in.firebaseio.com",
+    "project_id": "push-me-in",
+    "storage_bucket": "push-me-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29856458506:android:705bb211562dc2f3",
+        "android_client_info": {
+          "package_name": "satej.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29856458506-lhhqf1mmaguarrj32b6bv4lp6ahb45j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG0db8pT-pcVUlYh1QDMYzvIUdaus9Bic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29856458506:android:8f63c4cbcd164e86",
+        "android_client_info": {
+          "package_name": "satej.ionic.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29856458506-lhhqf1mmaguarrj32b6bv4lp6ahb45j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG0db8pT-pcVUlYh1QDMYzvIUdaus9Bic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -5,7 +5,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { HomePage } from '../pages/home/home';
 import { ListPage } from '../pages/list/list';
-
+declare const  FCMPlugin: any;
 @Component({
   templateUrl: 'app.html'
 })
@@ -33,6 +33,7 @@ export class MyApp {
       // Here you can do any higher level native things you might need.
       this.statusBar.styleDefault();
       this.splashScreen.hide();
+      FCMPlugin.subscribeToTopic('satej');
     });
   }
 
